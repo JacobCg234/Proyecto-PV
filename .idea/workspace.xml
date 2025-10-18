@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c153762-67f6-4c01-b13d-330ea45cc492" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JuegoNavesEspaciales/NaveEspacial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CocheModificable.executor": "Debug",
     "Application.FabricadePersonajes.executor": "Debug",
     "Application.JuegoCaceriaManzanas.executor": "Debug",
     "Application.OrquestaPolimorfica.executor": "Debug",
