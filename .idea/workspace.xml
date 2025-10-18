@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c153762-67f6-4c01-b13d-330ea45cc492" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/orquesta/Instrumento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/orquesta/OrquestaPolimorfica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/orquesta/Piano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/orquesta/Tambor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/orquesta/Trompeta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +51,20 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OrquestaPolimorfica">
+  <component name="RunManager" selected="Application.CocheModificable">
+    <configuration name="CocheModificable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cochemodificable.CocheModificable" />
+      <module name="Proyecto1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.cochemodificable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FabricadePersonajes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.personajes.FabricadePersonajes" />
       <module name="Proyecto1" />
@@ -99,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CocheModificable" />
         <item itemvalue="Application.OrquestaPolimorfica" />
         <item itemvalue="Application.JuegoCaceriaManzanas" />
         <item itemvalue="Application.FabricadePersonajes" />
