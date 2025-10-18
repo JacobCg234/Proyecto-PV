@@ -1,4 +1,4 @@
-package org.example.JuegoNavesEspaciales;
+package org.example.nave;
 
 import javax.swing.*;
 import java.awt.*;

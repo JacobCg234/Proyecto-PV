@@ -1,7 +1,4 @@
-package org.example.JuegoNavesEspaciales;
-
-package com.mx.curso.nave;
-
+package org.example.nave;
 import javax.swing.*;
 import java.awt.*;
 import java.util.Random;
